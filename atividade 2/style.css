@@ -1,0 +1,166 @@
+
+/* Exercicio 1*/
+
+.div_1_ex_1{
+    width: 50px;
+    height: 50px;
+    background-color: #ad2929;
+    border: solid 2px #229722;
+    margin-top: 100px;
+}
+
+.div_2_ex_1{
+    background-color: black;
+    height: 50vh;
+    width: 50%;
+    border: dashed 10px red;
+    margin: 100px 0 0 100px;
+}
+
+
+/* Exercicio 2*/
+
+.div_1_ex_2{
+background-color: rgba(141, 18, 141, 0.671);
+height: 250px;
+width: 100%;
+display: flex;
+justify-content: center;
+
+}
+
+.div_2_ex_2{
+    background-color: #f1b5bf;
+    height: 100%;
+    width: 250px;
+    border: rgb(228, 63, 63) outset 20px;
+}
+
+.div_3_ex_2{
+    background-color: #7fffd4;
+    height: 88%;
+    width: 30%;
+}
+
+/* Exercicio 3*/
+
+#body_ex_3{
+    background-color: #807c7c;
+}
+
+.div_1_ex_3{
+    background-color: #fff;
+    height: 500px;
+    width: 50%;
+    border: dotted 5px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div_2_ex_3{
+    background-color: #ffff23d3;
+    width: 30%;
+    height: 50px;
+}
+
+.div_3_ex_3{
+    background-color: rgb(228, 125, 7);
+    height: 100px;
+    width: 30%;
+}
+
+.div_4_ex_3{
+    background-color: rgb(35, 119, 35);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin: 50px 0 0 50px;
+}
+
+/* Exercicio 4 - DESAFIO*/
+
+.div_1_ex_4{
+    background-color: rgb(148, 81, 75);
+    height: 250px;
+    width: 80%;
+    border: 10px black outset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div_2_ex_4{
+    background-color: rgb(255, 255, 255);
+    height: 70%;
+    width: 80%;
+    border: 10px rgb(18, 48, 145) outset;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div_3_ex_4{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%;
+}
+.azul{
+    width: 75%;
+    height: 25px ;
+    background-color: blue;
+}
+.roxo{
+    width: 47%;
+    height: 25px ;
+    background-color: purple;
+}
+
+.verde{
+    width: 65%;
+    height: 25px ;
+    background-color: green;
+}
+
+.amarelo{
+    width: 55%;
+    height: 25px ;
+    background-color: yellow;
+}
+
+.div_4_ex_4{
+    width: 100%;
+    height: 50px;
+    margin-top: 15%;
+    display: flex;
+    flex-direction: row;
+
+    padding: 0;
+    
+}
+
+.vermelho{
+    background-color: red;
+    width: 50%;
+    height: 70%;
+
+}
+
+.ciano{
+    background-color: #145e68;
+    width: 20%;
+    height: 70%;
+}
+
+.verde_2{
+    background-color: #35dd35;
+    width: 30%;
+    height: 70%;
+}
